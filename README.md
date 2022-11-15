@@ -1,16 +1,8 @@
 # test_mmarket_zahreba
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/49997734/201937073-0959ba62-11d7-4d66-aaa3-9558ad350678.mp4
+![image](https://user-images.githubusercontent.com/49997734/201928992-61d4c678-ee89-496f-a827-aa8cfb84a553.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
